@@ -5,7 +5,7 @@ Olá, Meu nome é Daniel Ferreira, e sou desenvolvedor de games e sites, </br> a
 
 - 🎨 ***Trabalhando atualmente com Front-End*** 
 - ⚙️ ***Area de atuação atual: MTA:SA***
-- 📚 ***Estudando: JavaScript & PHP*** 
+- 📚 ***Estudando: C & C++*** 
 - 😊 ***Meu Discord: daniells_#9581***
 - 📷 ***<a href="https://www.instagram.com/daniells.lua/">Instagram</a>***
 - 🛒 ***<a href="https://discord.gg/DdQVf6yjHw">Discord ( Minha Loja )</a>***
