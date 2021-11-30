@@ -25,10 +25,4 @@ Olá, Meu nome é Daniel Ferreira, e sou desenvolvedor de games e sites, </br> a
 
 <br>
 
-### Tecnologias que eu mais utilizo
 
- <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniells56&langs_count=7&theme=dracula"/>
- 
-  </div>
